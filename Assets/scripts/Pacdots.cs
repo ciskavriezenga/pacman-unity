@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+// TODO - add dots to maze - to show them in that hierarcy
 
 public class Pacdots : MonoBehaviour
 {
